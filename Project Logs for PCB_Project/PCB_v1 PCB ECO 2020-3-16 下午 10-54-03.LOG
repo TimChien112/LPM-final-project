@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GPS_TX Pin=R19-1
+Removed Pin From Net: NetName=NetR19_2 Pin=R19-2
+Removed Pin From Net: NetName=GPS_RX Pin=R20-1
+Removed Pin From Net: NetName=NetR20_2 Pin=R20-2
+Removed Pin From Net: NetName=ACC_SCL Pin=T8-1
+Removed Pin From Net: NetName=ACC_SDA Pin=T9-1
+Removed Pin From Net: NetName=GPS_RX Pin=U4-10
+Removed Pin From Net: NetName=GPS_TX Pin=U4-20
+Removed Pin From Net: NetName=NetR19_2 Pin=U6-13
+Removed Pin From Net: NetName=NetR20_2 Pin=U6-14
+Added Pin To Net: NetName=NetR19_2 Pin=R19-1
+Added Pin To Net: NetName=GPS_TX Pin=R19-2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-1
+Added Pin To Net: NetName=GPS_RX Pin=R20-2
+Added Pin To Net: NetName=NetR16_2 Pin=T8-1
+Added Pin To Net: NetName=NetR17_2 Pin=T9-1
+Added Pin To Net: NetName=NetR20_2 Pin=U4-10
+Added Pin To Net: NetName=NetR19_2 Pin=U4-20
+Added Pin To Net: NetName=GPS_TX Pin=U6-13
+Added Pin To Net: NetName=GPS_RX Pin=U6-14
+Change Net Name : Old Net Name=GPS_RX New Net Name=GPS_RX_T
+Change Net Name : Old Net Name=GPS_TX New Net Name=GPS_TX_T
+Change Net Name : Old Net Name=NetR16_2 New Net Name=ACC_SCL_T
+Change Net Name : Old Net Name=NetR17_2 New Net Name=ACC_SDA_T
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR20_1

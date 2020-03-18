@@ -1,0 +1,19 @@
+Change Component Comment : Designator=U7 Old Comment= New Comment=XB3-C-A1-UT-001
+Change component parameters: Designator = "U7"; Footprint = "XB24CAPIT-001"; UniqueID = "\RFMXKEWQ\VNEGVBDL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet link"; Value = "https://www.digi.com/pdf/ds_xbee3-cellular-cat1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey link"; Value = "https://www.digikey.com/product-detail/en/digi/XB3-C-A1-UT-001/602-2211-ND/8109033"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey part number"; Value = "602-2211-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Digi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "XB3-C-A1-UT-001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "20-SMD Module"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "99"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=U7-1
+Added Pin To Net: NetName=LTE_TX_T Pin=U7-2
+Added Pin To Net: NetName=LTE_RX_T Pin=U7-3
+Added Pin To Net: NetName=NetR24_1 Pin=U7-6
+Added Pin To Net: NetName=DTR Pin=U7-9
+Added Pin To Net: NetName=GND Pin=U7-10
+Added Pin To Net: NetName=CTS Pin=U7-12
+Added Pin To Net: NetName=RTS Pin=U7-16
+Added Member To Class: ClassName=LTE module Member=Component U7 XB3-C-A1-UT-001

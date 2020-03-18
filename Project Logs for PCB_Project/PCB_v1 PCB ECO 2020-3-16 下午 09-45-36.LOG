@@ -1,0 +1,138 @@
+Removed Pin From Net: NetName=ACC_SCL Pin=R16-2
+Removed Pin From Net: NetName=ACC_SDA Pin=R17-2
+Removed Pin From Net: NetName=ACC_SCL Pin=U5-4
+Removed Pin From Net: NetName=ACC_SDA Pin=U5-6
+Removed Pin From Net: NetName=LTE_TX Pin=U7-2
+Removed Pin From Net: NetName=LTE_RX Pin=U7-3
+Added Component: Designator=D3(0603-LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1183-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LEDG"; VariantName = "[No Variations]"
+Added Component: Designator=D4(0603-LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1181-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LEDR"; VariantName = "[No Variations]"
+Added Component: Designator=D5(0603-LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1183-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LEDG"; VariantName = "[No Variations]"
+Added Component: Designator=D6(0603-LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1183-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LEDG"; VariantName = "[No Variations]"
+Added Component: Designator=R23(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.50KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5kR"; VariantName = "[No Variations]"
+Added Component: Designator=R24(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.50KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5kR"; VariantName = "[No Variations]"
+Added Component: Designator=R25(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R26(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R27(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R28(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1R"; VariantName = "[No Variations]"
+Added Component: Designator=R29(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1R"; VariantName = "[No Variations]"
+Added Component: Designator=R30(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1R"; VariantName = "[No Variations]"
+Added Component: Designator=R31(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=ACC_SCL Pin=R28-2
+Added Pin To Net: NetName=ACC_SDA Pin=R29-2
+Added Pin To Net: NetName=LTE_TX Pin=R30-1
+Added Pin To Net: NetName=LTE_RX Pin=R31-1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R23-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=R28-1
+Added Pin To Net: NetName=NetR16_2 Pin=U5-4
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=R29-1
+Added Pin To Net: NetName=NetR17_2 Pin=U5-6
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR21_2 Pin=U4-3
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR22_2 Pin=U4-4
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=U6-7
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=U7-6
+Added Net: Name=NetR24_1
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=U4-6
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=U4-7
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=U4-8
+Added Net: Name=NetR27_1
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=U7-2
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=U7-3
+Added Net: Name=NetR31_2
+Added Member To Class: ClassName=MCU Member=Component D3 0603 LEDG
+Added Member To Class: ClassName=MCU Member=Component D4 LEDR
+Added Member To Class: ClassName=GPS module Member=Component D5 0603 LEDG
+Added Member To Class: ClassName=LTE module Member=Component D6 0603 LEDG
+Added Member To Class: ClassName=GPS module Member=Component R23 0603R 1K5R
+Added Member To Class: ClassName=LTE module Member=Component R24 0603R 1K5R
+Added Member To Class: ClassName=MCU Member=Component R25 0603R NC
+Added Member To Class: ClassName=MCU Member=Component R26 0603R NC
+Added Member To Class: ClassName=MCU Member=Component R27 0603R NC
+Added Member To Class: ClassName=Accelerometer Member=Component R28 0603R 1R
+Added Member To Class: ClassName=Accelerometer Member=Component R29 0603R 1R
+Added Member To Class: ClassName=LTE module Member=Component R30 0603R 1R
+Added Member To Class: ClassName=LTE module Member=Component R31 0603R 1R

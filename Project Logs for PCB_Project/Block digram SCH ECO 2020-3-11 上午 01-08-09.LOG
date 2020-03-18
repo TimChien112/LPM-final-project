@@ -1,0 +1,75 @@
+Change Component Footprint: Designator=L1 Old Footprint=INDC4532 New Footprint=0402-A
+Change Component Footprint: Designator=C7 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C8 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C11 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C12 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C13 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C14 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C15 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C16 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C17 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C18 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C19 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C20 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C21 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C22 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C23 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C24 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C25 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C26 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C27 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C28 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C29 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C30 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C31 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C32 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=C33 Old Footprint=SMD-0603C New Footprint=1608[0603]
+Change Component Footprint: Designator=R5 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R6 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R7 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R8 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R9 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R10 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R14 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R15 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R16 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R17 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R18 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R19 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R20 Old Footprint=SMD-0603C New Footprint=J1-0603
+Change Component Footprint: Designator=R1 Old Footprint=SMD-0805-RES New Footprint=J1-0603
+Change Component Footprint: Designator=R2 Old Footprint=SMD-0805-RES New Footprint=J1-0603
+Change Component Footprint: Designator=R3 Old Footprint=SMD-0805-RES New Footprint=J1-0603
+Change Component Footprint: Designator=R12 Old Footprint=SMD-0805-RES New Footprint=J1-0603
+Change Component Footprint: Designator=R13 Old Footprint=SMD-0805-RES New Footprint=J1-0603
+Change Component Footprint: Designator=C4 Old Footprint=SMD-0805C New Footprint=1608[0603]
+Change Component Footprint: Designator=C5 Old Footprint=SMD-0805C New Footprint=1608[0603]
+Change Component Footprint: Designator=C6 Old Footprint=SMD-0805C New Footprint=1608[0603]
+Change Component Footprint: Designator=C1 Old Footprint=SMD-1206C New Footprint=1608[0603]
+Change Component Footprint: Designator=C2 Old Footprint=SMD-1206C New Footprint=1608[0603]
+Change Component Footprint: Designator=C9 Old Footprint=SMD-1210C New Footprint=C1210
+Change Component Footprint: Designator=C10 Old Footprint=SMD-1210C New Footprint=C1210
+Change Pin Designator/Name:  Old Designator=C26-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C26-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C27-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C27-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C28-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C28-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C29-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C29-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C30-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C30-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C31-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C31-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C32-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C32-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C33-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C33-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R16-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R16-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R17-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R17-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R19-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R19-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=R20-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R20-2 Old Name=2 New Designator =1 New Name=1

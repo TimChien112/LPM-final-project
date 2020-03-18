@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Added Component: Designator=R25(0603-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R25-2
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR27_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR28_1
+Change Net Name : Old Net Name=NetR30_1 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR32_1
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=U4-5
+Added Net: Name=NetR25_1
+Added Member To Class: ClassName=MCU Member=Component R28 0603R NC

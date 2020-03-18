@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=LTE_TX Pin=R30-1
+Removed Pin From Net: NetName=NetR30_2 Pin=R30-2
+Removed Pin From Net: NetName=LTE_RX Pin=R31-1
+Removed Pin From Net: NetName=NetR31_2 Pin=R31-2
+Removed Pin From Net: NetName=LTE_RX Pin=U4-22
+Removed Pin From Net: NetName=LTE_TX Pin=U4-23
+Removed Pin From Net: NetName=NetR30_2 Pin=U7-2
+Removed Pin From Net: NetName=NetR31_2 Pin=U7-3
+Added Pin To Net: NetName=NetR30_2 Pin=R30-1
+Added Pin To Net: NetName=LTE_TX Pin=R30-2
+Added Pin To Net: NetName=NetR31_2 Pin=R31-1
+Added Pin To Net: NetName=LTE_RX Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=U4-22
+Added Pin To Net: NetName=NetR30_2 Pin=U4-23
+Added Pin To Net: NetName=LTE_TX Pin=U7-2
+Added Pin To Net: NetName=LTE_RX Pin=U7-3
+Change Net Name : Old Net Name=LTE_RX New Net Name=LTE_RX_T
+Change Net Name : Old Net Name=LTE_TX New Net Name=LTE_TX_T
+Change Net Name : Old Net Name=NetR30_2 New Net Name=NetR30_1
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR31_1

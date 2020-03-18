@@ -1,0 +1,30 @@
+Change Component Comment : Designator=U4 Old Comment= New Comment=EFM32PG12_power
+Change component parameters: Designator = "U4"; Footprint = "QFN50P700X700X90_HS-49N_"; UniqueID = "\KKRQEXHJ\UVFBNLXV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet link"; Value = "https://www.silabs.com/documents/public/data-sheets/efm32pg12-datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey link"; Value = "https://www.digikey.com/product-detail/en/silicon-labs/EFM32PG12B500F1024GM48-C/336-4419-ND/8186199"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey part number"; Value = "336-4419-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "EFM32PG12B500F1024GM48-C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "48-VFQFN Exposed Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "4.43"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=SWCLK Pin=U4-1
+Added Pin To Net: NetName=SWDIO Pin=U4-2
+Added Pin To Net: NetName=NetC17_1 Pin=U4-9
+Added Pin To Net: NetName=GPS_RX Pin=U4-10
+Added Pin To Net: NetName=NetC25_1 Pin=U4-12
+Added Pin To Net: NetName=GPS_TX Pin=U4-20
+Added Pin To Net: NetName=LTE_RX Pin=U4-22
+Added Pin To Net: NetName=LTE_TX Pin=U4-23
+Added Pin To Net: NetName=NetC17_1 Pin=U4-34
+Added Pin To Net: NetName=GND Pin=U4-37
+Added Pin To Net: NetName=NetL3_1 Pin=U4-38
+Added Pin To Net: NetName=3.3V Pin=U4-39
+Added Pin To Net: NetName=NetC21_1 Pin=U4-40
+Added Pin To Net: NetName=NetC20_1 Pin=U4-41
+Added Pin To Net: NetName=3.3V Pin=U4-42
+Added Pin To Net: NetName=FALL_INT Pin=U4-46
+Added Pin To Net: NetName=ACC_SDA Pin=U4-47
+Added Pin To Net: NetName=ACC_SCL Pin=U4-48
+Added Member To Class: ClassName=MCU Member=Component U4 EFM32PG12_power

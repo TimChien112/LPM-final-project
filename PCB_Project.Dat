@@ -1,0 +1,46 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~C:\Users\Tim Chien\Google 雲端硬碟\LPM project\hardware\Project PCB\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~100|ReportField=ReportTime~上午 10:40:44|ReportField=ReportDate~2020/3/18|ReportField=ReportDateTime~2020/3/18 上午 10:40:44|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Tim Chien|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2020/3/17|ReportField=CurrentTime~下午 11:46:45|ReportField=Date~3-7-2020|ReportField=DocumentFullPathAndName~C:\Users\Tim Chien\Google 雲端硬碟\LPM project\hardware\Project PCB\Block digram.SchDoc|ReportField=DocumentName~Block digram.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~Tim Chien|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2020/3/8|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~1-1|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~6|ReportField=Time~23:47|ReportField=Title~Block diagram|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Tim Chien\Google 雲端硬碟\LPM project\hardware\Project PCB\PCB_Project.PrjPcb|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|1206C 100NF||C1, C2|1206-CAP|1206C 100NF|2
+2|1206C 10UF||C4|1206-CAP|1206C 10UF|1
+3|0805C 10UF||C6|0805-CAP|0805C 10UF|1
+4|0603C 4U7F||C7, C22, C27, C29|0603-CAP|0603C 4U7F|4
+5|0603C 120PF||C8|0603-CAP|0603C 120PF|1
+6|1210C 22UF||C9, C10|1210-CAP|1210C 22UF|2
+7|0603C 10UF||C11, C17, C24, C31|0603-CAP|0603C 10UF|4
+8|0603C 1UF||C12, C20, C23|0603-CAP|0603C 1UF|3
+9|0603C 10NF||C13, C14, C15, C16, C18, C19, C32|0603-CAP|0603C 10NF|7
+10|0603C 100NF||C21, C25, C26, C28|0603-CAP|0603C 100NF|4
+11|1210C 100UF||C30|1210-CAP|1210C 100UF|1
+12|0603C 68PF||C33|0603-CAP|0603C 68PF|1
+13|LEDR||D1, D4|0603-LED|0603 LEDR|2
+14|LEDG||D2|0603-LED|0603 LEDG|1
+15|0603 LEDG||D3, D5, D6|0603-LED|0603 LEDG|3
+16|ESD_USB||E1|ESD_USB|ESD_USB|1
+17|ESD_RS||E2|ESD_RS|ESD_RESET|1
+18|Inductor 470NH||L1|Inductor 470NH|Inductor 470NH|1
+19|CBF 102WB||L2|0603-FerritBead|Ferrite Bead|1
+20|Inductor 4U7H||L3|Inductor 4U7H|Inductor 4U7H|1
+21|2pins_connector|Bat_connector|P1, P2, P3|2_PINS_2.54|2pins_connector|3
+22|SWD||P4|4_PINS_2.54|4pins_connector|1
+23|3pins_connector||P5|3_PINS_2.54|3pins_connector|1
+24|0805R 5K1R||R1, R2|0805-RES|0805R 5K1R|2
+25|0603R 1KR||R3, R5|0603-RES|0603R 1KR|2
+26|0603R 1K07R||R6|0603-RES|0603R 1K07R|1
+27|0603R 46K4R||R7|0603-RES|0603R 46K4R|1
+28|0603R 10KR||R8, R16, R17, R18|0603-RES|0603R 10KR|4
+29|0603R 1K5R||R9, R10, R23, R24|0603-RES|0603R 1K5R|4
+30|0805R 100KR||R11, R13|0805-RES|0805R 100KR|2
+31|0805R 453KR||R12|0805-RES|0805R 453KR|1
+32|0603R 1R||R14, R29, R30, R31, R32|0603-RES|0603R 1R|5
+33|0603R 100R||R15|0603-RES|0603R 100R|1
+34|0603R 47R||R19, R20|0603-RES|0603R 47R|2
+35|3KR||R21, R22|0603-RES|0603R 3KR|2
+36|0603R NC||R25, R26, R27, R28|0603-RES|0603R NC|4
+37|PTS810|Tactile Switch SPST-NO Top Actuated Surface Mount|SW1|*SW_PTS810_SJM_250_SMTR_LFS|PTS810_SJM_250_SMTR_LFS|1
+38|1pin_connector||T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14|1_PIN_2.54|1pin_connector|14
+39|TPS2111APW|OR Controller Source Selector Switch N-Channel 2:1 8-TSSOP|U1|*SOP65P640X120-8N|TPS2111APW|1
+40|BQ24079TRGTR||U2|*QFN50P300X300X100-17N|BQ24079TRGTR|1
+41|TPS62822||U3|SON50P150X100_HS-9N|TPS62822|1
+42|EFM32PG12_power||U4|QFN50P700X700X90_HS-49N_|EFM32PG12|1
+43|MMA8452Q|Accelerometer X, Y, Z Axis , 2g, 4g, 8g 0.78Hz ~ 400Hz 16-QFN _3x3_|U5|*QFN-16_0.5MM|MMA8452Q|1
+44|SAM-M8Q-0-10|CAM-M8 RF Receiver BeiDou, GLONASS, GNSS, GPS 1.575GHz -167dBm On-Board, Chip Module|U6|SAMM8Q010|SAM-M8Q-0-10|1
+45|XB3-C-A1-UT-001||U7|XB24CAPIT-001|XB3-C-A1-UT-001|1

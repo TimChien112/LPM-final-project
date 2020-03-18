@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C15 Old Footprint=SMD-0603C New Footprint=SMD-0805C
+Change component parameters: Designator = "C15"; Footprint = "SMD-0805C"; UniqueID = "\KKRQEXHJ\QKCRTFBU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"

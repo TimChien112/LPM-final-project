@@ -1,0 +1,14 @@
+Added Component: Designator=E1(ESD_USB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-3838-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=E2(ESD_RS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "F7701CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=E1-1
+Added Pin To Net: NetName=V_USB Pin=E1-2
+Added Pin To Net: NetName=GND Pin=E2-1
+Added Pin To Net: NetName=NetC25_1 Pin=E2-2
+Added Member To Class: ClassName=Power circuit Member=Component E1 ESD_USB
+Added Member To Class: ClassName=MCU Member=Component E2 ESD_RS

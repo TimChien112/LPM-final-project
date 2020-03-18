@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Block digram.SchDoc
+Record=SheetSymbol|SourceDocument=Block digram.SchDoc|Designator=Accelerometer|SchDesignator=Accelerometer|FileName=Accerelometer.SchDoc|SymbolType=Normal|RawFileName=Accerelometer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block digram.SchDoc|Designator=GPS module|SchDesignator=GPS module|FileName=GPS.SchDoc|SymbolType=Normal|RawFileName=GPS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block digram.SchDoc|Designator=LTE module|SchDesignator=LTE module|FileName=LTE.SchDoc|SymbolType=Normal|RawFileName=LTE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block digram.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block digram.SchDoc|Designator=Power circuit|SchDesignator=Power circuit|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
