@@ -1,0 +1,51 @@
+Removed Member From Class: ClassName=MCU Member=C6
+Removed Member From Class: ClassName=MCU Member=C7
+Removed Member From Class: ClassName=Accelerometer Member=C18
+Removed Member From Class: ClassName=Accelerometer Member=C23
+Removed Member From Class: ClassName=GPS module Member=C23
+Removed Member From Class: ClassName=LTE module Member=C24
+Removed Member From Class: ClassName=LTE module Member=C27
+Removed Member From Class: ClassName=Accelerometer Member=R12
+Removed Member From Class: ClassName=MCU Member=R12
+Removed Member From Class: ClassName=GPS module Member=R16
+Removed Member From Class: ClassName=GPS module Member=R18
+Removed Member From Class: ClassName=LTE module Member=R25
+Removed Member From Class: ClassName=Accelerometer Member=R26
+Removed Member From Class: ClassName=MCU Member=R26
+Removed Member From Class: ClassName=Accelerometer Member=R28
+Removed Member From Class: ClassName=MCU Member=R28
+Removed Member From Class: ClassName=Accelerometer Member=R31
+Change Component Footprint: Designator=L2 Old Footprint=Inductor 470NH New Footprint=0603-FerritBead
+Change Component Footprint: Designator=L3 Old Footprint=Inductor 470NH New Footprint=Inductor 4U7H
+Change Component Comment : Designator=L2 Old Comment=Inductor 470NH New Comment=Ferrite Bead
+Change Component Comment : Designator=L3 Old Comment=Inductor 470NH New Comment=Inductor 4U7H
+Change component parameters: Designator = "L3"; Footprint = "Inductor 4U7H"; UniqueID = "\KKRQEXHJ\AEEUJLQW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-15954-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2"; Footprint = "0603-FerritBead"; UniqueID = "\KKRQEXHJ\EBWJQEVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "732-4484-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1kR 200mA"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power circuit Member=Component C7 1210C 22UF
+Added Member To Class: ClassName=Power circuit Member=Component C8 1210C 22UF
+Added Member To Class: ClassName=MCU Member=Component C21 0603C 10UF
+Added Member To Class: ClassName=MCU Member=Component C23 0603C 100NF
+Added Member To Class: ClassName=Accelerometer Member=Component C25 0603C 4U7F
+Added Member To Class: ClassName=Accelerometer Member=Component C26 0603C 100NF
+Added Member To Class: ClassName=GPS module Member=Component C27 0603C 4U7F
+Added Member To Class: ClassName=LTE module Member=Component C29 47uF
+Added Member To Class: ClassName=LTE module Member=Component C30 47uF
+Added Member To Class: ClassName=Power circuit Member=Component R12 0805R 100KR
+Added Member To Class: ClassName=MCU Member=Component R15 0603R NC
+Added Member To Class: ClassName=MCU Member=Component R16 0603R NC
+Added Member To Class: ClassName=MCU Member=Component R18 0603R NC
+Added Member To Class: ClassName=Accelerometer Member=Component R21 0603R 10KR
+Added Member To Class: ClassName=Accelerometer Member=Component R22 0603R 10KR
+Added Member To Class: ClassName=Accelerometer Member=Component R24 0603R 1R
+Added Member To Class: ClassName=Accelerometer Member=Component R25 0603R 1R
+Added Member To Class: ClassName=GPS module Member=Component R26 0603R 47R
+Added Member To Class: ClassName=GPS module Member=Component R27 0603R 47R
+Added Member To Class: ClassName=LTE module Member=Component R32 0603R 100R

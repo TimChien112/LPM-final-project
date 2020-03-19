@@ -1,0 +1,27 @@
+Removed Member From Class: ClassName=MCU Member=C7
+Removed Member From Class: ClassName=Accelerometer Member=C23
+Removed Member From Class: ClassName=LTE module Member=C27
+Removed Member From Class: ClassName=Accelerometer Member=R12
+Removed Member From Class: ClassName=MCU Member=R12
+Removed Member From Class: ClassName=GPS module Member=R23
+Removed Member From Class: ClassName=LTE module Member=R25
+Removed Member From Class: ClassName=Accelerometer Member=R26
+Removed Member From Class: ClassName=MCU Member=R26
+Removed Member From Class: ClassName=MCU Member=R27
+Removed Member From Class: ClassName=Accelerometer Member=R28
+Removed Member From Class: ClassName=MCU Member=R28
+Removed Member From Class: ClassName=Accelerometer Member=R31
+Added Member To Class: ClassName=MCU Member=Component C9 0603C 10UF
+Added Member To Class: ClassName=MCU Member=Component C23 0603C 100NF
+Added Member To Class: ClassName=Accelerometer Member=Component C25 0603C 4U7F
+Added Member To Class: ClassName=LTE module Member=Component C29 47uF
+Added Member To Class: ClassName=MCU Member=Component R13 3KR
+Added Member To Class: ClassName=MCU Member=Component R14 3KR
+Added Member To Class: ClassName=MCU Member=Component R15 0603R NC
+Added Member To Class: ClassName=MCU Member=Component R17 0603R NC
+Added Member To Class: ClassName=Accelerometer Member=Component R21 0603R 10KR
+Added Member To Class: ClassName=Accelerometer Member=Component R22 0603R 10KR
+Added Member To Class: ClassName=Accelerometer Member=Component R23 0603R 10KR
+Added Member To Class: ClassName=Accelerometer Member=Component R24 0603R 1R
+Added Member To Class: ClassName=GPS module Member=Component R27 0603R 47R
+Added Member To Class: ClassName=LTE module Member=Component R30 0603R 1R
