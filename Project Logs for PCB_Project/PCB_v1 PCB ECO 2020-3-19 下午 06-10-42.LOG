@@ -1,0 +1,30 @@
+Change Component Comment : Designator=U6 Old Comment= New Comment=SAM-M8Q-0-10
+Change component parameters: Designator = "U6"; Footprint = "SAMM8Q010"; UniqueID = "\HRNQDNRE\EMAYVXLJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "datasheet link"; Value = "https://www.u-blox.com/sites/default/files/SAM-M8Q_HardwareIntegrationManual_%28UBX-16018358%29.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "672-1054-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/u-blox-america-inc/SAM-M8Q-0-10/672-1054-1-ND/7393573"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "U-Blox America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SAM-M8Q-0-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "20-SMD Module"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SAM-M8Q-0-10/U-Blox%20America/view-part/?ref=search&t=SAM-M8Q-0-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "672-1054-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=3.3V Pin=U6-2
+Added Pin To Net: NetName=3.3V Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=NetR28_1 Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-10
+Added Pin To Net: NetName=GND Pin=U6-11
+Added Pin To Net: NetName=GPS_TX_T Pin=U6-13
+Added Pin To Net: NetName=GPS_RX_T Pin=U6-14
+Added Pin To Net: NetName=GND Pin=U6-15
+Added Pin To Net: NetName=GND Pin=U6-16
+Added Pin To Net: NetName=3.3V Pin=U6-17
+Added Pin To Net: NetName=GND Pin=U6-20
+Added Member To Class: ClassName=GPS module Member=Component U6 SAM-M8Q-0-10

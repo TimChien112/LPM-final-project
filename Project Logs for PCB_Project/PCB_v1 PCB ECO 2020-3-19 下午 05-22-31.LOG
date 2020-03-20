@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=ID_VSNS Pin=R6-2
+Removed Pin From Net: NetName=ID_VSNS Pin=R7-2
+Removed Pin From Net: NetName=ID_VSNS Pin=U2-12
+Removed Pin From Net: NetName=ID_VSNS Pin=U2-16
+Added Pin To Net: NetName=ID_ILIM Pin=R7-2
+Added Pin To Net: NetName=ID_ILIM Pin=U2-12
+Change Net Name : Old Net Name=NetR26_1 New Net Name=GPS_TX
+Change Net Name : Old Net Name=NetR27_1 New Net Name=GPS_RX
+Change Net Name : Old Net Name=NetR29_1 New Net Name=LTE_TX
+Change Net Name : Old Net Name=NetR30_1 New Net Name=LTE_RX
+Added Pin To Net: NetName=ID_ISET Pin=R6-2
+Added Pin To Net: NetName=ID_ISET Pin=U2-16
+Added Net: Name=ID_ISET

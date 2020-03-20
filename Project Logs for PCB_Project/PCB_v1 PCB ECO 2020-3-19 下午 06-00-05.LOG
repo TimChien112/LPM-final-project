@@ -1,0 +1,19 @@
+Change Component Comment : Designator=U3 Old Comment= New Comment=TPS62822
+Change component parameters: Designator = "U3"; Footprint = "SON50P150X100_HS-9N"; UniqueID = "\QYPRNQMS\HBSBCPMH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "datasheet link"; Value = "http://www.ti.com/lit/ds/symlink/tps62822.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey link"; Value = "https://www.digikey.com/product-detail/en/texas-instruments/TPS62822DLCR/296-50424-1-ND/9685563"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey number"; Value = "296-50424-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TPS62822DLCR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "8-VFDFN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-50424-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_BUCK_IN Pin=U3-1
+Added Pin To Net: NetName=NetC6_1 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=NetL1_1 Pin=U3-6
+Added Pin To Net: NetName=V_BUCK_IN Pin=U3-7
+Added Pin To Net: NetName=V_PG Pin=U3-8
+Added Member To Class: ClassName=Power circuit Member=Component U3 TPS62822
