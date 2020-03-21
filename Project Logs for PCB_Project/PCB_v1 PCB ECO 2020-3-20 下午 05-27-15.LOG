@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=MCU_AVDD Pin=R19-1
+Removed Pin From Net: NetName=NetL2_2 Pin=R19-2
+Change Component Footprint: Designator=C3 Old Footprint=1206-CAP New Footprint=0805-CAP
+Change Component Comment : Designator=C3 Old Comment=1206C 10UF New Comment=0805C 10UF
+Change component parameters: Designator = "C3"; Footprint = "0805-CAP"; UniqueID = "\QYPRNQMS\HILLFQTY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "445-7617-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19"; Footprint = "0603-RES"; UniqueID = "\KKRQEXHJ\DRJUCSKR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00HRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24"; Footprint = "0603-RES"; UniqueID = "\LOOIIVTV\UPNXOUCD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00HRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25"; Footprint = "0603-RES"; UniqueID = "\LOOIIVTV\VVTDWQJM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00HRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29"; Footprint = "0603-RES"; UniqueID = "\RFMXKEWQ\YFPWDAQA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00HRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30"; Footprint = "0603-RES"; UniqueID = "\RFMXKEWQ\COWHRWUC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00HRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL2_2 Pin=R19-1
+Added Pin To Net: NetName=MCU_AVDD Pin=R19-2
