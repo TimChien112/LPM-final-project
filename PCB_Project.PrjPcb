@@ -227,23 +227,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YIAPMVMO
 
 [Document12]
-DocumentPath=battery Management IC\BQ24210DQCR.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GOLLBFIE
-
-[Document13]
 DocumentPath=MCU\EMF32PG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJUOWOBS
 
-[Document14]
+[Document13]
 DocumentPath=LTE\XBee_LTE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITUJKFCC
 
-[Document15]
+[Document14]
 DocumentPath=Acceleormeter\Accerelometer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KHYPECUH
 
-[Document16]
+[Document15]
 DocumentPath=CAM-M8Q-0 Lib\GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -311,7 +294,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJPVLSCI
 
-[Document17]
+[Document16]
 DocumentPath=LTE\LTE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -328,7 +311,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVYWUBAG
 
-[Document18]
+[Document17]
 DocumentPath=switch\PTS810_SJM_250_SMTR_LFS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -345,7 +328,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=switch\PTS810_SJM_250_SMTR_LFS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -362,7 +345,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EFVSOYOK
 
-[Document20]
+[Document19]
 DocumentPath=battery Management IC\BQ24079TRGTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -379,7 +362,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJTAEQNR
 
-[Document21]
+[Document20]
 DocumentPath=battery Management IC\BQ24079TRGTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -396,7 +379,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTWVHBJY
 
-[Document22]
+[Document21]
 DocumentPath=2.54_Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -413,7 +396,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYLJAIGX
 
-[Document23]
+[Document22]
 DocumentPath=Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -430,7 +413,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PEWEMIHM
 
-[Document24]
+[Document23]
 DocumentPath=Acceleormeter\MMA8452Q.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -447,7 +430,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDQAQSJY
 
-[Document25]
+[Document24]
 DocumentPath=Acceleormeter\MMA8452Q.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -464,7 +447,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFOMQDWR
 
-[Document26]
+[Document25]
 DocumentPath=PCB_v1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -481,7 +464,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYVHGJXB
 
-[Document27]
+[Document26]
 DocumentPath=PCB_Project.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -498,7 +481,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=passive components.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -515,7 +498,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEQVOLVK
 
-[Document29]
+[Document28]
 DocumentPath=passive components.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1

@@ -1,0 +1,31 @@
+Change Component Comment : Designator=U2 Old Comment= New Comment=BQ24079TRGTR
+Change component parameters: Designator = "U2"; Footprint = "*QFN50P300X300X100-17N"; UniqueID = "\QYPRNQMS\YPRLWCCR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet link"; Value = "http://www.ti.com/lit/ds/symlink/bq24079.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey link"; Value = "https://www.digikey.com/product-detail/en/texas-instruments/BQ24079RGTR/296-24815-1-ND/2094655"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BQ24079RGTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "16-VFQFN Exposed Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "2.21"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BQ24079TRGTR/Texas%20Instruments/view-part/144669/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-24815-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR9_2 Pin=U2-1
+Added Pin To Net: NetName=V_BAT Pin=U2-2
+Added Pin To Net: NetName=V_BAT Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=V_BUCK_IN Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=NetD2_2 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetD1_2 Pin=U2-9
+Added Pin To Net: NetName=V_BUCK_IN Pin=U2-10
+Added Pin To Net: NetName=V_BUCK_IN Pin=U2-11
+Added Pin To Net: NetName=PM_ILIM Pin=U2-12
+Added Pin To Net: NetName=V_PMU Pin=U2-13
+Added Pin To Net: NetName=PM_TMR Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=PM_ISET Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Member To Class: ClassName=Power circuit Member=Component U2 BQ24079TRGTR

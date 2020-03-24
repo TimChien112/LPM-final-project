@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=T8 Old Footprint=1_PIN_2.54 New Footprint=1_PIN_test
+Change Component Footprint: Designator=T9 Old Footprint=1_PIN_2.54 New Footprint=1_PIN_test
+Change Component Footprint: Designator=T10 Old Footprint=1_PIN_2.54 New Footprint=1_PIN_test
+Change Component Footprint: Designator=T11 Old Footprint=1_PIN_2.54 New Footprint=1_PIN_test
+Change Component Footprint: Designator=T12 Old Footprint=1_PIN_2.54 New Footprint=1_PIN_test
+Change Component Footprint: Designator=T13 Old Footprint=1_PIN_2.54 New Footprint=1_PIN_test
+Change Component Footprint: Designator=T14 Old Footprint=1_PIN_2.54 New Footprint=1_PIN_test
+Change Component Comment : Designator=T1 Old Comment=1pin_connector New Comment=1pin_header
+Change Component Comment : Designator=T2 Old Comment=1pin_connector New Comment=1pin_header
+Change Component Comment : Designator=T3 Old Comment=1pin_connector New Comment=1pin_header
+Change Component Comment : Designator=T4 Old Comment=1pin_connector New Comment=1pin_header
+Change Component Comment : Designator=T5 Old Comment=1pin_connector New Comment=1pin_header
+Change Component Comment : Designator=T6 Old Comment=1pin_connector New Comment=1pin_header
+Change Component Comment : Designator=T7 Old Comment=1pin_connector New Comment=1pin_header
+Change Component Comment : Designator=T8 Old Comment=1pin_connector New Comment=1pin_test
+Change Component Comment : Designator=T9 Old Comment=1pin_connector New Comment=1pin_test
+Change Component Comment : Designator=T10 Old Comment=1pin_connector New Comment=1pin_test
+Change Component Comment : Designator=T11 Old Comment=1pin_connector New Comment=
+Change Component Comment : Designator=T12 Old Comment=1pin_connector New Comment=
+Change Component Comment : Designator=T13 Old Comment=1pin_connector New Comment=
+Change Component Comment : Designator=T14 Old Comment=1pin_connector New Comment=
+Change Component Comment : Designator=T15 Old Comment=1pin_connector New Comment=
