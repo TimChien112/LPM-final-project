@@ -1,0 +1,6 @@
+Added Component: Designator=P6(3_PINS_2.54)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Member To Class: ClassName=LTE module Member=Component P6 3pins_connector
