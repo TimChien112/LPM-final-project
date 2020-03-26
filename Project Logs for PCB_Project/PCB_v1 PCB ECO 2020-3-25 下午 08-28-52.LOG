@@ -1,0 +1,17 @@
+Change Component Comment : Designator=U4 Old Comment=EFM32PG12_signal New Comment=EFM32PG12_power
+Added Pin To Net: NetName=SWCLK Pin=U4-1
+Added Pin To Net: NetName=SWDIO Pin=U4-2
+Added Pin To Net: NetName=MCU_P3 Pin=U4-3
+Added Pin To Net: NetName=MCU_P4 Pin=U4-4
+Added Pin To Net: NetName=MCU_P5 Pin=U4-5
+Added Pin To Net: NetName=MCU_P6 Pin=U4-6
+Added Pin To Net: NetName=GPS_RX Pin=U4-7
+Added Pin To Net: NetName=GPS_TX Pin=U4-8
+Added Pin To Net: NetName=LTE_TX Pin=U4-18
+Added Pin To Net: NetName=LTE_RX Pin=U4-19
+Added Pin To Net: NetName=FALL_INT Pin=U4-20
+Added Pin To Net: NetName=ACC_SDA Pin=U4-21
+Added Pin To Net: NetName=ACC_SCL Pin=U4-22
+Added Pin To Net: NetName=MCU_P24 Pin=U4-24
+Added Pin To Net: NetName=MCU_P25 Pin=U4-25
+Added Member To Class: ClassName=MCU Member=Component U4 EFM32PG12_power
