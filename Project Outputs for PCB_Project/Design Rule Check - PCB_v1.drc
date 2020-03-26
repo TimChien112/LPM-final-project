@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Tim Chien\Google ¶³ºÝµwºÐ\LPM project\hardware\LPM-final-project\PCB_v1.PcbDoc
-Date     : 2020/3/25
-Time     : ¤U¤È 08:36:37
+PCB File : S:\Semester 4\LPED\project\LPM-final-project\PCB_v1.PcbDoc
+Date     : 3/25/2020
+Time     : 8:44:21 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -15,10 +15,10 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=8mil) (Max=12mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=6mil) (Max=20mil) (Preferred=20mil) ((InNet('3.3V') OR InNet('GND') OR InNet('V_USB') OR InNet('V_SOLAR') OR InNet('V_PMU') OR InNet('V_BUCK_IN') OR InNet('V_BAT')))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=6mil) (Max=20mil) (Preferred=20mil) ((InNet('3.3V') OR InNet('GND') OR InNet('V_USB') OR InNet('V_SOLAR') OR InNet('V_PMU') OR InNet('V_BUCK_IN') OR InNet('V_BAT')))
+Processing Rule : Width Constraint (Min=8mil) (Max=12mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -48,4 +48,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:01
