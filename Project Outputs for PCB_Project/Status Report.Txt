@@ -9,4 +9,4 @@ From  : Project [PCB_Project.PrjPcb]
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 9:10:38 PM On 3/25/2020
+Finished Output Generation At ¤U¤È 09:35:39 On 2020/3/25
